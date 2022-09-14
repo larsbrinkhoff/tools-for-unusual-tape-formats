@@ -1,0 +1,5 @@
+*~
+*.o
+classify-tape
+cpio
+restore
