@@ -73,7 +73,7 @@ read_36bits (uint8_t *x)
     }
   else
     {
-      printf ("Uknown track number\n");
+      printf ("Unknown track number\n");
       exit (1);
     }
 }
